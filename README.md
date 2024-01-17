@@ -12,15 +12,15 @@ AeroInsightHub : "An aviation information application with user-friendly input f
 
 ### Mobile Device
 
-<img src="./src/assets/screenshots/mobileSS_home.png" height='500px'>
+<img src="./src/Assets/screenshots/mobileSS_home.png" height='500px'>
 
-<img src="./src/assets/screenshots/mobileSS_other.png" height='500px'>
+<img src="./src/Assets/screenshots/mobileSS_other.png" height='500px'>
 
 ### Laptop Device
 
-<img src="./src/assets/screenshots/laptopSS_home.png" height='500px'>
+<img src="./src/Assets/screenshots/laptopSS_home.png" height='500px'>
 
-<img src="./src/assets/screenshots/laptopSS_other.png" height='500px'>
+<img src="./src/Assets/screenshots/laptopSS_other.png" height='500px'>
 
 ## Tech/ Framework Used
 
