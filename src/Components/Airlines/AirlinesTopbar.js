@@ -35,7 +35,7 @@ const AirlinesTopbar = ({ getAirlinesData }) => {
     >
       <Grid item xs={10} md={3} sx={{ paddingTop: "0 !important" }}>
         <Stack>
-          <Typography variant="h6" height="70px" sx={{ my: 2 }}>
+          <Typography height="70px" sx={{ my: 2 }}>
             Airline Name:
           </Typography>
           <TextField
