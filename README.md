@@ -1,6 +1,37 @@
-# Getting Started with Create React App
+<p align="center">
+  <img style="border-width: 0" width="400" height="400" src="./src/Assets/title-logo.png" alt="Game Star logo">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# AeroInsightHub
+
+AeroInsightHub : "An aviation information application with user-friendly input fields, providing detailed data on airlines✈️, aircrafts🛩️, and airports🛫
+
+---
+
+## Screenshots
+
+### Mobile Device:
+
+<img src="./src/assets/screenshots/mobileSS_home.png" height='500px'>
+
+<img src="./src/assets/screenshots/mobileSS_other.png" height='500px'>
+
+### Laptop Device:
+
+<img src="./src/assets/screenshots/laptopSS_home.png" height='500px'>
+
+<img src="./src/assets/screenshots/laptopSS_other.png" height='500px'>
+
+## Tech/ Framework Used
+
+## Technologies Used
+
+- ReactJS
+- Material UI
+- Axios
+- Airports API
+- Airlines API
+- Aircrafts API
 
 ## Available Scripts
 
