@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="border-width: 0" width="400" height="400" src="./src/Assets/title-logo.png" alt="Game Star logo">
+  <img style="border-width: 0" width="400" height="400" src="./src/Assets/logo.png" alt="Game Star logo">
 </p>
 
 # AeroInsightHub
@@ -10,13 +10,13 @@ AeroInsightHub : "An aviation information application with user-friendly input f
 
 ## Screenshots
 
-### Mobile Device:
+### Mobile Device
 
 <img src="./src/assets/screenshots/mobileSS_home.png" height='500px'>
 
 <img src="./src/assets/screenshots/mobileSS_other.png" height='500px'>
 
-### Laptop Device:
+### Laptop Device
 
 <img src="./src/assets/screenshots/laptopSS_home.png" height='500px'>
 
